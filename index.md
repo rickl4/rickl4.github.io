@@ -2,7 +2,7 @@
 layout: article
 titles:
   # @start locale config
-  en      : &EN       About
+  en      : &EN       Home
   # @end locale config
 key: page-index
 ---
@@ -12,3 +12,5 @@ key: page-index
 ### hey
 
 #### sup
+
+##### who
