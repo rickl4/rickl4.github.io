@@ -8,7 +8,7 @@ header:
   - titles:
       # @start locale config
       en      : &EN       Portfolio
-    url: /about.html
+    url: /portfolio.html
 
   - titles:
       # @start locale config
