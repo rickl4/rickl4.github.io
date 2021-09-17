@@ -21,7 +21,7 @@ href="https://www.strava.com/athletes/51514447" style="text-decoration: none; co
 ## Education
 
 
-__Masters of Applied Science and Engineering Candidate, University of Toronto, Department of Civil and Mineral Engineering__
+__Masters of Applied Science and Engineering _Candidate_, University of Toronto, Department of Civil and Mineral Engineering__
 
 * Supervised by Prof. Amer Shalaby at the Transit Analytics Lab
 * Anticipated graduation in Fall 2022
