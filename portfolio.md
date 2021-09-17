@@ -1,6 +1,6 @@
 ---
 layout: article
-title: yo
+title: Portfolio
 key: page-index
 ---
 
