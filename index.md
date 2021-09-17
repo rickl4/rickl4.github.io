@@ -30,3 +30,5 @@ __Bachelors of Applied Science and Engineering, University of Toronto, Departmen
 
 * Graduated in Spring 2020
 * Participated in the PEY Co-op (16 month full time co-op term) program
+
+## Work Experience
