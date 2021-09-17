@@ -11,6 +11,8 @@ key: page-index
 href="https://www.instagram.com/aerobrick/" style="text-decoration: none; color:black"><i class="fab fa-instagram" style="color: #0b8793"></i> Instagram</a>  | <a
 href="https://www.strava.com/athletes/51514447" style="text-decoration: none; color:black"><i class="fab fa-strava" style="color: #0b8793"></i> Strava</a> </p>
 
+
+
 # About Me
 
 ## Education
