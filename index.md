@@ -7,7 +7,7 @@ key: page-index
 
 <img src="img/cover.png"
      alt="cover"
-     style="vertical-align:middle"> />
+     style="vertical-align:middle"/>
 
 I'm a masters student at the [University of Toronto Department of Civil and Mineral Engineering](https://civmin.utoronto.ca/), supervised by [Amer Shalaby](https://uttri.utoronto.ca/people/amer-shalaby/). My research focuses on the criticality and redundancy of public transit in the context of equity. After graduation, I aspire to be a future transportation planner, and applying what I've learned to larger scale projects.
 
