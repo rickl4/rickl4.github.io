@@ -26,7 +26,7 @@ __Masters of Applied Science and Engineering Candidate, University of Toronto, D
 * Supervised by Prof. Amer Shalaby at the Transit Analytics Lab
 * Anticipated graduation in Fall 2022
 
-__Bachelors of Applied Science and Engineering Candidate, University of Toronto, Department of Civil and Mineral Engineering__
+__Bachelors of Applied Science and Engineering, University of Toronto, Department of Civil and Mineral Engineering__
 
 * Graduated in Spring 2020
 * Participated in the PEY Co-op (16 month full time co-op term) program
