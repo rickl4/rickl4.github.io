@@ -1,7 +1,7 @@
 ---
 layout: article
 layout: article
-title: Hi, hello, hey, howdy, bonjour, I'm Rick
+title: Hi, Hello, Bonjour, I'm Rick
 key: page-index
 ---
 
