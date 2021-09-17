@@ -1,9 +1,7 @@
 ---
 layout: article
-titles:
-  # @start locale config
-  en      : &EN       Home
-  # @end locale config
+layout: article
+title: yo
 key: page-index
 ---
 
