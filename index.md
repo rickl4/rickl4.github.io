@@ -17,7 +17,9 @@ href="https://www.strava.com/athletes/51514447" style="text-decoration: none; co
 
 # About Me
 
+
 ## Education
+
 
 __Masters of Applied Science and Engineering Candidate, University of Toronto, Department of Civil and Mineral Engineering__
 
