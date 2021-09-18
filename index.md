@@ -2,6 +2,8 @@
 layout: article
 layout: article
 title: Hi, Hello, Bonjour, I'm Rick
+aside:
+  toc: true
 key: page-index
 ---
 
