@@ -69,19 +69,25 @@ __Bachelors of Applied Science and Engineering, University of Toronto, Departmen
 
 ## Conference Papers
 
-1. **Liu, R**; Palm, M; Shalaby, A; Farber, S. (2021). A Social Equity Lens on Bus Bridging and Ride-hailing Responses to Unplanned Subway Disruptions. TRB Conference Proceedings. 100th Annual Meeting of the Transportation Research Board
+_Papers that also involved a poster presentation are marked with *_
+
+1. **Liu, R\***; Palm, M; Shalaby, A; Farber, S. (2021). A Social Equity Lens on Bus Bridging and Ride-hailing Responses to Unplanned Subway Disruptions. TRB Conference Proceedings. 100th Annual Meeting of the Transportation Research Board
 
 
 2. Dumas R., Zhu C., Coleman J., **Liu R.**, Chan H., Harpalani A. (2020). A Comprehensive Investigation into Ridesourcing Company Activities in Toronto. TRB Conference Proceedings. 99th Annual Meeting of the Transportation Research Board
 
 
-3. **Liu R.**, Minet L., Shekarrizfard M., Weichenthal S., Hatzopoulou M. (2018). Short-Term Exposure to Ultrafine Particles, Black Carbon, and Noise: Comparison Between Panel Data and Mobility-Based Exposures Derived from Land Use Regression Models. 97th Annual Meeting of the Transportation Research Board
+3. **Liu R.\***, Minet L., Shekarrizfard M., Weichenthal S., Hatzopoulou M. (2018). Short-Term Exposure to Ultrafine Particles, Black Carbon, and Noise: Comparison Between Panel Data and Mobility-Based Exposures Derived from Land Use Regression Models. 97th Annual Meeting of the Transportation Research Board
 
 
 4. Minet L., **Liu R.**, Valois M., Xu J., Weichenthal S., Hatzopoulou M. (2018). A Comparison Of Air Pollution Exposure Surfaces Developed Via Mobile And Fixed-Site Monitoring Protocols Against Personal Exposures. 97th Annual Meeting of the Transportation Research Board
 
 
 5. Fallah-Shorshani M., Minet L., **Liu R.**, Plante C., Goudreau S., Smargiassi A., Weichenthal S., Hatzopoulou M. (2018). Capturing The Spatial Variability Of Noise Levels Using Land Use Regression Models And Comparing Exposure Surfaces Against Personal Exposures Collected Through A Panel Study. 97th Annual Meeting of the Transportation Research Board
+
+## Presentations
+
+1. Liu R., A Social Equity Lens on Bus Bridging and Ride-hailing Responses to Unplanned Subway Disruptions. (2020). TransitData 2020 Symposium
 
 ## Teaching Assistantships
 
