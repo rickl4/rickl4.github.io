@@ -61,7 +61,7 @@ Undergraduate Research Assistant, 2018
 
 ## Peer Reviewed Publications
 
-1. Klumpenhouwer, W., Allen, J., Li, **L., Liu, R.**, Robinson, M., Da Silva, D., Farber, S., Karner, A., Rowangould, D., Shalaby, A., Buchanan, M., &amp; Higashide, S. (2021). A comprehensive transit accessibility and Equity Dashboard. Transport Findings.
+1. Klumpenhouwer, W., Allen, J., Li, L., **Liu, R.**, Robinson, M., Da Silva, D., Farber, S., Karner, A., Rowangould, D., Shalaby, A., Buchanan, M., &amp; Higashide, S. (2021). A comprehensive transit accessibility and Equity Dashboard. Transport Findings.
 
 2. **Liu, R**; Palm, M; Shalaby, A; Farber, S. (2020). A social equity lens on bus bridging and ride-hailing responses to unplanned subway disruptions. Journal of Transport Geography.
 
