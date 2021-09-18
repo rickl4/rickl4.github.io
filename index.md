@@ -51,7 +51,7 @@ Research Assistant, 2020-Present
 * Used python and [OpenTripPlanner](https://www.opentripplanner.org) to determine transit travel times
 
 ### City of Toronto Transportation Services
-Technical Trainee (Co-op), 2018-2019
+Technical Trainee (16 month co-op), 2018-2019
 * Contributed to the [Vehicle for Hire Bylaw Review](https://www.toronto.ca/legdocs/mmis/2019/gl/bgrd/backgroundfile-135307.pdf), and [King Street Transit Project Dashboard](https://www.toronto.ca/city-government/planning-development/planning-studies-initiatives/king-street-pilot/data-reports-background-materials/)
 * Used python (Jupyter), QGIS, and PostgreSQL for the analysis
 
