@@ -131,6 +131,10 @@ Co-Captain, 2018-2019
 Concrete Lead, 2017-2018
 * Designed the concrete mix for the 2018 Canoe, and performed weekly strength test on preliminary mix designs
 
+General Member, 2016-2017
+* Helped team leads whenever help was needed (such as separating fibers)
+
+
 ### The Cannon (UofT Engineering Newspaper)
 
 Editor-in-Chief, 2019-2020
@@ -146,7 +150,4 @@ Graphics Head, 2016-2017
 
 Layout Team Member 2015-2016
 * Assisted with the layout process
-
-General Member, 2016-2017
-* Helped team leads whenever help was needed (such as separating fibers)
 
