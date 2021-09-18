@@ -15,6 +15,8 @@ Broadly, I have an interest in promoting public transit and active transportatio
 
 On the weekends, you can find me cycling, playing video games (Cities: Skylines and LoL), and learning Ultimate Frisbee (_badly_). The best movie I've seen recently is Shang-Chi.
 
+I'll also occasionally contribute to my [blog](rickl4.github.io/archive.html). I write about a variety of topics not limited to just transit (but it will probably the main topic of my blog). Please note that the views expressed on my blog are mine alone, and not the views of any past or present employer.
+
 <p><a href="mailto:rick.liu@mail.utoronto.ca" style="text-decoration: none; color:black"><i class="fas fa-envelope" style="color: #0b8793"></i> rick.liu@mail.utoronto.ca</a></p>
 
 <p><a href="https://scholar.google.ca/citations?hl=en&user=staAxwMAAAAJ&view_op=list_works&sortby=pubdate" style="text-decoration: none; color:black"><i class="fab fa-google" style="color: #0b8793"></i> Google Scholar</a> | <a href="https://www.researchgate.net/profile/Rick-Liu-7" style="text-decoration: none; color:black"><i class="fab fa-researchgate" style="color: #0b8793"></i> Researchgate</a> | <a href="https://www.linkedin.com/in/rick-liu-b40118122/" style="text-decoration: none; color:black"><i class="fab fa-linkedin" style="color: #0b8793"></i> Linkedin</a> | <a
@@ -41,7 +43,19 @@ __Bachelors of Applied Science and Engineering, University of Toronto, Departmen
 
 ## Work Experience
 
-Research Assistant
+### University of Toronto Transit Analytics Lab
+**Research Assistant, 2020-Present**
+* Contributed to the [TransitCenter Equity Dashboard project](https://dashboard.transitcenter.org)
+* Used python and [OpenTripPlanner](https://www.opentripplanner.org) to determine transit travel times
+
+### City of Toronto Transportation Services
+**Technical Trainee (Co-op), 2018-2019**
+* Contributed to the [Vehicle for Hire Bylaw Review](https://www.toronto.ca/legdocs/mmis/2019/gl/bgrd/backgroundfile-135307.pdf), and [King Street Transit Project Dashboard](https://www.toronto.ca/city-government/planning-development/planning-studies-initiatives/king-street-pilot/data-reports-background-materials/)
+* Used python (Jupyter), QGIS, and PostgreSQL for the analysis
+
+### University of Toronto Transportation and Air Quality Research Group
+**Undergraduate Research Assistant, 2018**
+* Assessed the performance of air pollution models using VBA, and ArcGIS
 
 ## Peer Reviewed Publications
 
@@ -84,20 +98,23 @@ Research Assistant
 ### Canadian Society for Civil Engineering - Student Competition Committee 
 
 **Technical Director (Concrete Canoe), 2021-2022**
-*Determined all technical requirements, rules, and regulations that Universities entering the Canadian National Concrete Canoe Competition (CNCCC) have to follow
+
+* Determined all technical requirements, rules, and regulations that Universities entering the Canadian National Concrete Canoe Competition (CNCCC) have to follow
 
 **General Volunteer (Concrete Canoe), 2020-2021**
-*Developed the livestreaming plan for the 2021 virtual edition of the CNCCC
-*Consulted with the Technical Director for rules, regulations, and requests for information
+
+* Developed the livestreaming plan for the 2021 virtual edition of the CNCCC
+* Consulted with the Technical Director for rules, regulations, and requests for information
 
 ### University of Toronto Civil and Mineral Engineers Graduate Students Association
 
 **Communications Director, 2020-2021**
+
 * Handled communications between the club, and students, industry partners, and the faculty
 
 ### University of Toronto Concrete Canoe Club
 **Hull Design Lead, 2019-2020**
-*Designed the canoe using solidworks and AutoCAD
+* Designed the canoe using solidworks and AutoCAD
 
 **Co-Captain, 2018-2019**
 * Led the team to a 4th place finish at the 2019 CNCCC
