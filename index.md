@@ -17,7 +17,7 @@ Broadly, I have an interest in promoting public transit and active transportatio
 
 On the weekends, you can find me cycling, playing video games (Cities: Skylines and LoL), and learning Ultimate Frisbee (_badly_). The best movie I've seen recently is Shang-Chi.
 
-I also occasionally contribute to my [blog](/archive.html). I write about a variety of topics not limited to just transit (but it will probably the main topic of my blog). Please note that the views expressed on my blog are mine alone, and not the views of any past or present employer.
+I also occasionally contribute to my [blog](/archive.html). I write about a variety of topics not limited to just transit (but it will probably be the main topic of my blog). Please note that the views expressed on my blog are mine alone, and not the views of any past or present employer.
 
 <p><a href="mailto:rick.liu@mail.utoronto.ca" style="text-decoration: none; color:black"><i class="fas fa-envelope" style="color: #0b8793"></i> rick.liu@mail.utoronto.ca</a></p>
 
