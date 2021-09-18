@@ -46,17 +46,17 @@ __Bachelors of Applied Science and Engineering, University of Toronto, Departmen
 ## Work Experience
 
 ### University of Toronto Transit Analytics Lab
-**Research Assistant, 2020-Present**
+Research Assistant, 2020-Present
 * Contributed to the [TransitCenter Equity Dashboard project](https://dashboard.transitcenter.org)
 * Used python and [OpenTripPlanner](https://www.opentripplanner.org) to determine transit travel times
 
 ### City of Toronto Transportation Services
-**Technical Trainee (Co-op), 2018-2019**
+Technical Trainee (Co-op), 2018-2019
 * Contributed to the [Vehicle for Hire Bylaw Review](https://www.toronto.ca/legdocs/mmis/2019/gl/bgrd/backgroundfile-135307.pdf), and [King Street Transit Project Dashboard](https://www.toronto.ca/city-government/planning-development/planning-studies-initiatives/king-street-pilot/data-reports-background-materials/)
 * Used python (Jupyter), QGIS, and PostgreSQL for the analysis
 
 ### University of Toronto Transportation and Air Quality Research Group
-**Undergraduate Research Assistant, 2018**
+Undergraduate Research Assistant, 2018
 * Assessed the performance of air pollution models using VBA, and ArcGIS
 
 ## Peer Reviewed Publications
@@ -93,11 +93,11 @@ _Papers that also involved a poster presentation are marked with *_
 
 ## Teaching Assistantships
 
-**CIV100: Mehanics**
+CIV100: Mehanics
 * Teaching Assistant for Fall 2021
 * Marking Assignments
 
-**CME263: Probability Theory for Civil and Mineral Engineers**
+CME263: Probability Theory for Civil and Mineral Engineers
 * Teaching Assistant for Spring 2021
 * Teaching Tutorials
 
@@ -105,48 +105,48 @@ _Papers that also involved a poster presentation are marked with *_
 
 ### Canadian Society for Civil Engineering - Student Competition Committee 
 
-**Technical Director (Concrete Canoe), 2021-2022**
+Technical Director (Concrete Canoe), 2021-2022
 
 * Determined all technical requirements, rules, and regulations that Universities entering the Canadian National Concrete Canoe Competition (CNCCC) have to follow
 
-**General Volunteer (Concrete Canoe), 2020-2021**
+General Volunteer (Concrete Canoe), 2020-2021
 
 * Developed the livestreaming plan for the 2021 virtual edition of the CNCCC
 * Consulted with the Technical Director for rules, regulations, and requests for information
 
 ### University of Toronto Civil and Mineral Engineers Graduate Students Association
 
-**Communications Director, 2020-2021**
+Communications Director, 2020-2021
 
 * Handled communications between the club, and students, industry partners, and the faculty
 
 ### University of Toronto Concrete Canoe Club
-**Hull Design Lead, 2019-2020**
+Hull Design Lead, 2019-2020
 * Designed the canoe using solidworks and AutoCAD
 
-**Co-Captain, 2018-2019**
+Co-Captain, 2018-2019
 * Led the team to a 4th place finish at the 2019 CNCCC
 * Managed an executive team of 8, and a team of 30
 
-**Concrete Lead, 2017-2018**
+Concrete Lead, 2017-2018
 * Designed the concrete mix for the 2018 Canoe, and performed weekly strength test on preliminary mix designs
 
 ### The Cannon (UofT Engineering Newspaper)
 
-**Editor-in-Chief, 2019-2020**
+Editor-in-Chief, 2019-2020
 * Managed the publishing process for the newspaper, contributed to the layout process, and wrote a column
 
-**Design Head, 2017-2019**
+Design Head, 2017-2019
 * Managed the layout, graphics, and photography teams for the newspaper
 * Led the layout process using Adobe InDesign and Illustrator
 * Occasionally contributed a written article to the paper
 
-**Graphics Head, 2016-2017**
+Graphics Head, 2016-2017
 * Developed graphics for articles in the newspaper
 
-**Layout Team Member 2015-2016**
+Layout Team Member 2015-2016
 * Assisted with the layout process
 
-**General Member, 2016-2017**
+General Member, 2016-2017
 * Helped team leads whenever help was needed (such as separating fibers)
 
