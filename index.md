@@ -9,11 +9,11 @@ key: page-index
      alt="cover"
      style="vertical-align:middle"/>
 
-I'm a masters student at the [University of Toronto Department of Civil and Mineral Engineering](https://civmin.utoronto.ca/), supervised by [Amer Shalaby](https://uttri.utoronto.ca/people/amer-shalaby/). My research focuses on the criticality and redundancy of public transit in the context of equity. After graduation, I aspire to be a future transportation planner, and applying what I've learned to larger scale projects.
+I'm a masters student at the [University of Toronto Department of Civil and Mineral Engineering](https://civmin.utoronto.ca/), supervised by [Amer Shalaby](https://uttri.utoronto.ca/people/amer-shalaby/). My research focuses on the criticality and redundancy of public transit in the context of equity. After graduation, I aspire to be a future transportation planner, and applying what I've learned to projects.
 
-Broadly, I have an interest in promoting public transit, making our existing transit more equitable, promoting active transportation infrastructure, building the "15 minute city", and making our cities more liveable by reducing the reliance on the car. These things are extremely important if we want to reduce the effects of climate change on our cities.
+Broadly, I have an interest in promoting public transit and active transportation, making our existing transit more equitable, and building the "15 minute city", These things are extremely important if we want to reduce the effects of climate change on our cities, and will also make our cities more liveable.
 
-On the weekends, you can find me cycling, playing video games (Cities Skylines and LoL mostly), and learning Ultimate Frisbee. The best movie I've seen recently is Shang-Chi.
+On the weekends, you can find me cycling, playing video games (Cities: Skylines and LoL), and learning Ultimate Frisbee (_badly_). The best movie I've seen recently is Shang-Chi.
 
 <p><a href="mailto:rick.liu@mail.utoronto.ca" style="text-decoration: none; color:black"><i class="fas fa-envelope" style="color: #0b8793"></i> rick.liu@mail.utoronto.ca</a></p>
 
@@ -40,3 +40,88 @@ __Bachelors of Applied Science and Engineering, University of Toronto, Departmen
 * Participated in the PEY Co-op (16 month full time co-op term) program
 
 ## Work Experience
+
+Research Assistant
+
+## Peer Reviewed Publications
+
+1. **Liu, R**; Palm, M; Shalaby, A; Farber, S. (2020). A social equity lens on bus bridging and ride-hailing responses to unplanned subway disruptions. Journal of Transport Geography.
+
+
+2. Fallah-Shorshani M., Minet L., **Liu R.**, Plante C., Goudreau S., Oiamo T., Smargiassi A., Weichenthal S., Hatzopoulou M. (2018). Capturing the spatial variability of noise levels based on a short-term monitoring campaign and comparing noise surfaces against personal exposures collected through a panel study. Environmental Research. 
+
+
+3. Minet L., **Liu R.**, Valois M., Xu J., Weichenthal S., Hatzopoulou M. (2018). Developement and Comparison of Air Pollution Exposure Surfaces Derived From On-Road Mobile Monitoring and Short-Term Stationary Sidewalk Measurements. Environmental Science & Technology.
+
+## Conference Papers
+
+1. **Liu, R**; Palm, M; Shalaby, A; Farber, S. (2021). A Social Equity Lens on Bus Bridging and Ride-hailing Responses to Unplanned Subway Disruptions. TRB Conference Proceedings. 100th Annual Meeting of the Transportation Research Board
+
+
+2. Dumas R., Zhu C., Coleman J., **Liu R.**, Chan H., Harpalani A. (2020). A Comprehensive Investigation into Ridesourcing Company Activities in Toronto. TRB Conference Proceedings. 99th Annual Meeting of the Transportation Research Board
+
+
+3. **Liu R.**, Minet L., Shekarrizfard M., Weichenthal S., Hatzopoulou M. (2018). Short-Term Exposure to Ultrafine Particles, Black Carbon, and Noise: Comparison Between Panel Data and Mobility-Based Exposures Derived from Land Use Regression Models. 97th Annual Meeting of the Transportation Research Board
+
+
+4. Minet L., **Liu R.**, Valois M., Xu J., Weichenthal S., Hatzopoulou M. (2018). A Comparison Of Air Pollution Exposure Surfaces Developed Via Mobile And Fixed-Site Monitoring Protocols Against Personal Exposures. 97th Annual Meeting of the Transportation Research Board
+
+
+5. Fallah-Shorshani M., Minet L., **Liu R.**, Plante C., Goudreau S., Smargiassi A., Weichenthal S., Hatzopoulou M. (2018). Capturing The Spatial Variability Of Noise Levels Using Land Use Regression Models And Comparing Exposure Surfaces Against Personal Exposures Collected Through A Panel Study. 97th Annual Meeting of the Transportation Research Board
+
+## Teaching Assistantships
+
+**CIV100: Mehanics**
+* Teaching Assistant for Fall 2021
+* Marking Assignments
+
+**CME263: Probability Theory for Civil and Mineral Engineers**
+* Teaching Assistant for Spring 2021
+* Teaching Tutorials
+
+## Volunteer Work
+
+### Canadian Society for Civil Engineering - Student Competition Committee 
+
+**Technical Director (Concrete Canoe), 2021-2022**
+*Determined all technical requirements, rules, and regulations that Universities entering the Canadian National Concrete Canoe Competition (CNCCC) have to follow
+
+**General Volunteer (Concrete Canoe), 2020-2021**
+*Developed the livestreaming plan for the 2021 virtual edition of the CNCCC
+*Consulted with the Technical Director for rules, regulations, and requests for information
+
+### University of Toronto Civil and Mineral Engineers Graduate Students Association
+
+**Communications Director, 2020-2021**
+* Handled communications between the club, and students, industry partners, and the faculty
+
+### University of Toronto Concrete Canoe Club
+**Hull Design Lead, 2019-2020**
+*Designed the canoe using solidworks and AutoCAD
+
+**Co-Captain, 2018-2019**
+* Led the team to a 4th place finish at the 2019 CNCCC
+* Managed an executive team of 8, and a team of 30
+
+**Concrete Lead, 2017-2018**
+* Designed the concrete mix for the 2018 Canoe, and performed weekly strength test on preliminary mix designs
+
+### The Cannon (UofT Engineering Newspaper)
+
+**Editor-in-Chief, 2019-2020**
+* Managed the publishing process for the newspaper, contributed to the layout process, and wrote a column
+
+**Design Head, 2017-2019**
+* Managed the layout, graphics, and photography teams for the newspaper
+* Led the layout process using Adobe InDesign and Illustrator
+* Occasionally contributed a written article to the paper
+
+**Graphics Head, 2016-2017**
+* Developed graphics for articles in the newspaper
+
+**Layout Team Member 2015-2016**
+* Assisted with the layout process
+
+**General Member, 2016-2017**
+* Helped team leads whenever help was needed (such as separating fibers)
+
