@@ -59,13 +59,13 @@ __Bachelors of Applied Science and Engineering, University of Toronto, Departmen
 
 ## Peer Reviewed Publications
 
-1. **Liu, R**; Palm, M; Shalaby, A; Farber, S. (2020). A social equity lens on bus bridging and ride-hailing responses to unplanned subway disruptions. Journal of Transport Geography.
+1. Klumpenhouwer, W., Allen, J., Li, **L., Liu, R.**, Robinson, M., Da Silva, D., Farber, S., Karner, A., Rowangould, D., Shalaby, A., Buchanan, M., &amp; Higashide, S. (2021). A comprehensive transit accessibility and Equity Dashboard. Transport Findings.
 
+2. **Liu, R**; Palm, M; Shalaby, A; Farber, S. (2020). A social equity lens on bus bridging and ride-hailing responses to unplanned subway disruptions. Journal of Transport Geography.
 
-2. Fallah-Shorshani M., Minet L., **Liu R.**, Plante C., Goudreau S., Oiamo T., Smargiassi A., Weichenthal S., Hatzopoulou M. (2018). Capturing the spatial variability of noise levels based on a short-term monitoring campaign and comparing noise surfaces against personal exposures collected through a panel study. Environmental Research. 
+3. Fallah-Shorshani M., Minet L., **Liu R.**, Plante C., Goudreau S., Oiamo T., Smargiassi A., Weichenthal S., Hatzopoulou M. (2018). Capturing the spatial variability of noise levels based on a short-term monitoring campaign and comparing noise surfaces against personal exposures collected through a panel study. Environmental Research. 
 
-
-3. Minet L., **Liu R.**, Valois M., Xu J., Weichenthal S., Hatzopoulou M. (2018). Developement and Comparison of Air Pollution Exposure Surfaces Derived From On-Road Mobile Monitoring and Short-Term Stationary Sidewalk Measurements. Environmental Science & Technology.
+4. Minet L., **Liu R.**, Valois M., Xu J., Weichenthal S., Hatzopoulou M. (2018). Developement and Comparison of Air Pollution Exposure Surfaces Derived From On-Road Mobile Monitoring and Short-Term Stationary Sidewalk Measurements. Environmental Science & Technology.
 
 ## Conference Papers
 
