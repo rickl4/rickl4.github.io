@@ -11,6 +11,6 @@ test6
 |-------|-------|
 |[<img src="thumbnails/trb-22.png">](portfolio/trb-22.pdf)|test|
 |[<img src="thumbnails/capstone.png">](portfolio/capstone-report.pdf)|test|
-|[<img src="thumbnails/trb-22.png">](portfolio/trb-22.pdf)|test|
+|[<img src="thumbnails/cover1.png">](portfolio/trb-22.pdf)|test|
 |[<img src="thumbnails/trb-22.png">](portfolio/trb-22.pdf)|test|
 
