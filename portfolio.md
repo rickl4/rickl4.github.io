@@ -9,5 +9,8 @@ test6
 
 |<img width=300/> PDF for Download|<img width=600/> Summary|
 |-------|-------|
-|[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)|test|
+|[<img src="thumbnails/trb-22.png">](portfolio/trb-22.pdf)|test|
+|[<img src="thumbnails/capstone.png">](portfolio/capstone-report.pdf)|test|
+|[<img src="thumbnails/trb-22.png">](portfolio/trb-22.pdf)|test|
+|[<img src="thumbnails/trb-22.png">](portfolio/trb-22.pdf)|test|
 
