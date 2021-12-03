@@ -1,7 +1,7 @@
 ---
 layout: article
 layout: article
-title: Hi, Hello, Bonjour, I'm Rick
+title: Hi, Hello, Howdy, I'm Rick
 aside:
   toc: true
 key: page-index
@@ -11,7 +11,7 @@ key: page-index
      alt="cover"
      style="vertical-align:middle"/>
 
-I'm a masters student at the [University of Toronto Department of Civil and Mineral Engineering](https://civmin.utoronto.ca/), supervised by [Amer Shalaby](https://uttri.utoronto.ca/people/amer-shalaby/). My research focuses on the criticality and redundancy of public transit in the context of equity. After graduation, I aspire to be a future transportation planner, and applying what I've learned to projects.
+My name is Rick (_he/him_), and I'm a masters student at the [University of Toronto Department of Civil and Mineral Engineering](https://civmin.utoronto.ca/), supervised by [Amer Shalaby](https://uttri.utoronto.ca/people/amer-shalaby/). My research focuses on the criticality and redundancy of public transit in the context of equity. After graduation, I aspire to be a future transportation planner, and applying what I've learned to projects.
 
 Broadly, I have an interest in promoting public transit and active transportation, making our existing transit more equitable, and building the "15 minute city", These things are extremely important if we want to reduce the effects of climate change on our cities and make our cities more liveable.
 
