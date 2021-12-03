@@ -7,7 +7,7 @@ key: page-index
 
 test5
 
-|<img width=300/>|<img width=400/>|
+|<img width=300/> PDF for Download|<img width=600/> Summary|
 |-------|-------|
 |[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)|test|
 
