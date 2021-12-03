@@ -8,4 +8,4 @@ tags: Personal
 
 ## History of the TTC
 
-![img/ttc_history.gif](History of the TTC 1950-2024))
+![img/ttc_history.gif](History of the TTC 1950-2024)
