@@ -5,9 +5,9 @@ key: page-index
 ---
 
 # its a work in progress...
-test2
+test3
 
-|<div style="width:290px">property</div> File for Download (pdf) | Description|
+|<div style="width:290px">property<p>Document for Download (PDF)</p></div> | Description|
 |-------|-------|
 |[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)|test|
 
