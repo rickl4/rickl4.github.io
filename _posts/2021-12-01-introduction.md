@@ -8,4 +8,6 @@ tags: Personal
 
 ## History of the TTC
 
-![History of the TTC 1950-2024](img/ttc_history.gif)
+test1
+
+![https://github.com/rickl4/rickl4.github.io/blob/master/_posts/img/ttc_history.gif]()
