@@ -10,5 +10,4 @@ tags: Personal
 
 test2
 
-
-![](https://github.com/rickl4/rickl4.github.io/blob/master/_posts/img/ttc_history.gif)
+![https://raw.githubusercontent.com/rickl4/rickl4.github.io/master/_posts/img/ttc_history.gif]()
