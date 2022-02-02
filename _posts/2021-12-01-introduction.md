@@ -19,7 +19,7 @@ It’s been 2 years since I graduated from undergrad, and I realized that I miss
 
 ## History of the TTC
 
-Now, since I can’t just leave this article at 300 words with no meaningful content. So here’s this cool GIF I made. I was inspired by [this map by Jake Berman](https://fiftythree.studio/collections/the-lost-subways-of-north-america-canada/products/toronto-streetcar-system-map-print-1932), and wondered about how the TTC’s rail transit network evolved over time. So after hours of research from Wikipedia (including references listed on Wikipedia), [Transit Toronto](https://transittoronto.ca), and [Steve Munro](https://stevemunro.ca), I made this GIF. I recreated the TTC network and graphic style ~70 different times using Illustrator, and then combined it to a GIF.
+Now, since I can’t just leave this article at 300 words with no meaningful content, here’s this cool GIF I made. I was inspired by [this map by Jake Berman](https://fiftythree.studio/collections/the-lost-subways-of-north-america-canada/products/toronto-streetcar-system-map-print-1932), and wondered about how the TTC’s rail transit network evolved over time. So after hours of research from Wikipedia (including references listed on Wikipedia), [Transit Toronto](https://transittoronto.ca), and [Steve Munro](https://stevemunro.ca), I made this GIF. I recreated the TTC network and graphic style ~70 different times using Illustrator, and then combined it to a GIF.
 
 ![](https://raw.githubusercontent.com/rickl4/rickl4.github.io/master/_posts/img/ttc_history.gif)
 
