@@ -46,7 +46,7 @@ __Bachelors of Applied Science and Engineering, University of Toronto, Departmen
 ## Work Experience
 
 ### University of Toronto Transit Analytics Lab
-Research Assistant, 2020-Present
+Research Assistant, 2020-2022
 * Contributed to the [TransitCenter Equity Dashboard project](https://dashboard.transitcenter.org)
 * Used python and [OpenTripPlanner](https://www.opentripplanner.org) to determine transit travel times
 
@@ -61,7 +61,7 @@ Undergraduate Research Assistant, 2018
 
 ## Peer Reviewed Publications
 
-1. Klumpenhouwer, W., Allen, J., Li, L., **Liu, R.**, Robinson, M., Da Silva, D., Farber, S., Karner, A., Rowangould, D., Shalaby, A., Buchanan, M., &amp; Higashide, S. (2021). A comprehensive transit accessibility and Equity Dashboard. Transport Findings.
+1. Da Silva, D., Klumpenhouwer, W., Karner, A., Robinson, M., **Liu, R.**, Shalaby, A. (2022). Living on a Fare: Modeling and Quantifying the Effects of Fare Budgets on Transit Access and Equity. Journal of Transport Geography.
 
 2. **Liu, R**; Palm, M; Shalaby, A; Farber, S. (2020). A social equity lens on bus bridging and ride-hailing responses to unplanned subway disruptions. Journal of Transport Geography.
 
